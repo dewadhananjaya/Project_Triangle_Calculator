@@ -65,7 +65,7 @@ form>button {
 footer {
     color: silver; /* Properti ini mengatur warna teks di dalam elemen <footer> menjadi warna silver (perak). */
     text-align: center; /* Properti ini mengatur teks di dalam elemen <footer> untuk dipusatkan secara horizontal. */
-    padding: 10px; /* Properti ini menambahkan ruang polos di dalam elemen <footer> sebesar 10 piksel. */
+    padding: 5px; /* Properti ini menambahkan ruang polos di dalam elemen <footer> sebesar 5 piksel. */
     border-radius: 15px; /* Properti ini memberikan sudut lengkung pada elemen <footer> dengan radius 15 piksel. */
     background-color: brown; /* Properti ini menetapkan warna latar belakang elemen <footer> menjadi cokelat. */
     bottom: 0; /* Properti ini memastikan bahwa footer ditempatkan di bagian bawah halaman. */
